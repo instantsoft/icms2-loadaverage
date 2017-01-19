@@ -1,0 +1,17 @@
+[subject:ATTENTION! A large server load!]
+
+Hello.
+
+On the server where the "<a href="{host}">{site}</a>" site is large load! Please, take the action.
+
+
+<b>Commit date:</b> {date} {time}
+
+<b>Load average:</b> {la}
+
+<b>Server IP:</b> {ip}
+
+<b>Site:</b> <a href="{host}">{host}</a>
+
+--
+<small>This letter is sent automatically, please do not reply</small>
